@@ -1,43 +1,81 @@
+# Hi, I'm Ezekiel 👋
 
-- 👋 Hi, I’m @Eazydev-CEO
-- 👀 I’m interested in frontend web development
-- 🌱 I am full stack django developer.
-- 💞️ I’m looking to collaborate on backend development.
-- 📫 How to reach me WhatsApp +2349033768504.
+Backend Engineer specializing in Python, Django, automation systems, scalable APIs, and VPS infrastructure.
 
-👋 Hi, I'm @Eazydev-CEO!
+I build high-performance backend solutions focused on scalability, reliability, and automation.
 
-👀 I'm fascinated by frontend web development, and I'm always looking for opportunities to enhance my skills.
+---
 
-🌱 Currently, I'm a full stack Django developer, proficient in creating APIs, HTML, CSS, and JavaScript.
+## 🚀 What I Build
 
-💞️ I'm eager to collaborate on backend development projects and contribute my expertise.
+- Django REST APIs
+- Python automation systems
+- Backend architectures
+- VPS/Linux infrastructure
+- API integrations
+- Performance-optimized applications
+- Deployment & server management
 
-📫 You can reach me via WhatsApp at +2349033768504. Feel free to connect! 📲
+---
 
-👨‍💻🌐 - Frontend web development
+## 🛠 Tech Stack
 
-🐍🌐 - Full stack Django development (Django, DRF, Flask)
+### Backend
+- Python
+- Django
+- Django REST Framework
+- FastAPI
 
-🎨💻 - API, HTML, CSS, JavaScript, Ajax
+### Infrastructure
+- Linux
+- VPS Management
+- Docker
+- Nginx
+- Gunicorn
 
-<!---
-Easy-creator/Easy-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Database
+- PostgreSQL
+- SQLite
 
+### Other Tools
+- Git & GitHub
+- REST APIs
+- JavaScript
+- HTML/CSS
 
-<!--
-**Eazydev-CEO/Eazydev-CEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Scalable backend systems
+- Infrastructure automation
+- High-performance APIs
+- Cloud deployment
+- Backend optimization
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Django Authentication System
+Authentication system built with Django including signup, login, logout, and session management.
+
+### 🔹 Automation Dashboard
+Backend automation platform with task scheduling, logging, and process management.
+
+### 🔹 VPS Deployment Toolkit
+Linux deployment toolkit for automating server setup and backend deployment.
+
+---
+
+## 🌐 Connect With Me
+
+- Website: https://eazydev.com.ng
+- LinkedIn: https://linkedin.com/in/obiajulu-ezekiel
+- Email: ezekielizuchi2018@gmail.com
+
+---
+
+## ⚡ Philosophy
+
+Clean architecture. Optimized performance. Scalable systems.
