@@ -71,7 +71,7 @@ Linux deployment toolkit for automating server setup and backend deployment.
 ## 🌐 Connect With Me
 
 - Website: https://eazydev.com.ng
-- LinkedIn: https://linkedin.com/in/obiajulu-ezekiel
+- LinkedIn: https://linkedin.com/in/obiajuluezekiel/
 - Email: ezekielizuchi2018@gmail.com
 
 ---
